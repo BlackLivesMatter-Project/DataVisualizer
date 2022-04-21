@@ -1,5 +1,5 @@
-from DataParser import DataParser
-import pandas as pd
+"""used to play with DataParser class"""
+from .data_parser import DataParser
 
 def run_app():
     """Main function for running app from command line."""
